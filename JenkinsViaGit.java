@@ -8,6 +8,7 @@ public class JenkinsViaGit{
 		System.out.println("Test4 - new commit and push to trigger jenkins build2");
 		System.out.println("Test5 - new commit and push to trigger jenkins build3");
 		System.out.println("Test6 - new commit and push to trigger jenkins build4");
+		System.out.println("Test7 - new commit and push to trigger jenkins build5");
 		
 		
 		
